@@ -6,7 +6,7 @@ My BLARE project! Named BLARE Because it has the same color scheme. Went for a n
 <img width="1614" height="558" alt="image" src="https://github.com/user-attachments/assets/d20389cb-3c9c-4728-8a6a-a28e0bec7893" />
 
 Materials:
-4x Cherry MX Switches
-1x Seeeed Xiao ESP32 C3
-1x Buzzer
-1x 2.25in TFT
+<br>4x Cherry MX Switches
+<br>1x Seeeed Xiao ESP32 C3
+<br>1x Buzzer
+<br>1x 2.25in TFT
